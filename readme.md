@@ -57,9 +57,9 @@
 
 ###### unnumbered
 
--   Red
--   Green
--   Blue
++   Red
++   Green
++   Blue
 
 
 -   Red
@@ -67,9 +67,7 @@
 -   Blue
 
 
--   Red
--   Green
--   Blue
+
 
 
 -   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
