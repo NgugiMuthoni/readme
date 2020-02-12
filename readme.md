@@ -45,3 +45,32 @@
 > Here's some example code:
 >
 >     return shell_exec("echo $input | $markdown_script");
+
+##### lists
+>Markdown also has no. and unnumbered list
+
+###### unnumbered
+
+*   Red
+*   Green
+*   Blue
+
++   Red
++   Green
++   Blue
+
+-   Red
+-   Green
+-   Blue
+
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+    Suspendisse id sem consectetuer libero luctus adipiscing.
+
+###### numbered
+
+1.  Bird
+2.  McHale
+3.  Parish
