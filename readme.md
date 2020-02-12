@@ -84,6 +84,8 @@
 2.  McHale
 3.  Parish
 
->  if (MM < 0 || MM > 12) {
+'''''
+if (MM < 0 || MM > 12) {
     alert("invalid month ");
   }
+''''
