@@ -91,5 +91,3 @@ if (MM < 0 || MM > 12) {
     alert("invalid month ");
   }
 ````
-
->  console.log(print);
