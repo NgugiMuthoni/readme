@@ -92,4 +92,4 @@ if (MM < 0 || MM > 12) {
   }
 ````
 
-console.log(print);
+>  console.log(print);
